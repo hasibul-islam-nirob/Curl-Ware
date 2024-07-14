@@ -1,0 +1,6 @@
+
+<?php
+
+return [
+    'use' => 'pusher',
+];
